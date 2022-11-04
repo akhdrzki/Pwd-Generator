@@ -2,7 +2,7 @@ import random
 
 print("Password Generator")
 
-chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*?.,()123456789"
+chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*?.,()0123456789"
 
 num = input("Amount of your password to generate: ")
 
